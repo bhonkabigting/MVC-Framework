@@ -1,29 +1,7 @@
 # MVC Framework
 
 ## Folder Structure
-application/
-├─ controllers/
-├─ models/
-├─ views/
-├─ config.js
-├─ routes.js
-assets/
-├─ css/
-├─ images/
-├─ js/
-node_modules/
-system/
-├─ libraries/
-│  ├─ Validator.js
-├─ middlewares/
-│  ├─ FlashData.js
-│  ├─ Profiler.js
-├─ BaseModel.js
-├─ Database.js
-├─ GetControllers.js
-├─ package-lock.json
-├─ package.json
-app.js
+![image](https://user-images.githubusercontent.com/41639075/236118927-914da803-53f7-4c26-98d9-626d30cdbc73.png)
 
 ## Features
 
