@@ -84,3 +84,6 @@ You can create a controller like this:
 
 You also need to import it like this:
     `module.exports = new ControllerName;`
+
+### Run
+Type "node app.js" on the command line
